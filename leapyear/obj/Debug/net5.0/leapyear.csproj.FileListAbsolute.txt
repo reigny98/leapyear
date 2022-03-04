@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\leapyear\leapyear\bin\Debug\net5.0\leapyear.exe
+C:\Users\churchill paul\source\repos\leapyear\leapyear\bin\Debug\net5.0\leapyear.deps.json
+C:\Users\churchill paul\source\repos\leapyear\leapyear\bin\Debug\net5.0\leapyear.runtimeconfig.json
+C:\Users\churchill paul\source\repos\leapyear\leapyear\bin\Debug\net5.0\leapyear.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\leapyear\leapyear\bin\Debug\net5.0\leapyear.dll
+C:\Users\churchill paul\source\repos\leapyear\leapyear\bin\Debug\net5.0\leapyear.pdb
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.dll
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\refint\leapyear.dll
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.pdb
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\leapyear.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\leapyear\leapyear\obj\Debug\net5.0\ref\leapyear.dll
